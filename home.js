@@ -6,7 +6,7 @@ const num2 = prompt("Введите второе число:", "");
 let summ = +num1 + +num2;
 
 if (summ == '') {
-   alert('The Summ of nothing =))')
+   alert('The Summ is nothing =))')
 
 }
 else if (isNaN(summ)) {
