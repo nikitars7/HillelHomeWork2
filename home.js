@@ -15,5 +15,6 @@ else if (isNaN(summ)) {
 
 }
 else {
-   alert(`Сумма двух чисел = ${summ}`);
+   alert(`Сумма двух чисел = ${summ}
+   Тип : ${typeof summ}`);
 }
